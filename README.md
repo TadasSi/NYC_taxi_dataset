@@ -10,8 +10,11 @@ Load data files to hdfs
 
 ### How to run
 Set variables:
+
 PAR_ENV='prod';
-PAR_CONFIG_PATH={path to config json}'config.json'
+
+PAR_CONFIG_PATH={path to config json}'config.json';
+
 Use this spark command to run script:
 
 ```
