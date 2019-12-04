@@ -1,6 +1,8 @@
 # NYC_taxi_dataset
 The aim of this project is to process NYC Taxi Trip Record Data.
 
+https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 •  Load raw data files to hdfs.
 
 •  Transform them and write to parquets.
