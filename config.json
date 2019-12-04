@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "test": {
+      "hdfs_raw_path": "/user/tadas/tmp/tests/raw_data/",
+      "hdfs_path": "/user/tadas/tmp/tests/dl_data/",
+      "local_dir": "/tmp/test/"
+    },
+    "prod": {
+      "hdfs_raw_path": "/user/tadas/tmp/tests/raw_data/",
+      "hdfs_path": "/user/tadas/tmp/tests/dl_data/",
+      "local_dir": "/tmp/test/"
+    }
+  }
+}
